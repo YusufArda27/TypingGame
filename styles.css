@@ -60,6 +60,6 @@ body, .quote-input {
 }
 
 .incorrect {
-  color: darkred;
+  color: red;
   text-decoration: underline;
 }
